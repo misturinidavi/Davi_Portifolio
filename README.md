@@ -19,6 +19,6 @@ I was able to get the model to predict the sport of the ball with 94% accuracy a
 
 ![](/images/matrix_results.png)
 
-# [My Soltuions to Neural Networks and Deep Learning, by Michael Nielsen](http://neuralnetworksanddeeplearning.com/chap1.html)
+# [Neural Networks and Deep Learning, by Michael Nielsen](http://neuralnetworksanddeeplearning.com/chap1.html)
 
-In this project, I will post gradually my solutions to Nielsen's Book.
+In this project, I will gradually post my solutions to Nielsen's Book.
